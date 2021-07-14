@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="test project" />
+    <HelloWorld msg="使用Jenkins自动化部署Vue到docker" />
   </div>
 </template>
 
