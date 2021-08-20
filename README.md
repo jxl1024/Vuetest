@@ -1,4 +1,4 @@
-# test
+# test 重新开始学习Vue的demo程序
 
 ## Project setup
 ```
