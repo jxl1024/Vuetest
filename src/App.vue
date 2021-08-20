@@ -1,9 +1,11 @@
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">Home</router-link> |
+      <!-- router-link 定义点击后导航到哪个路径下 -->
+      <router-link to="/home">Home</router-link> |
       <router-link to="/about">About</router-link>
     </div>
+    <!-- 对应的组件内容渲染到router-view中 -->
     <router-view />
   </div>
 </template>
